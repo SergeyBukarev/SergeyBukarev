@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SergeyBukarev
+- 👀 I’m interested in iOS and Android developing
+- 🌱 I’m currently learning kotlin multiplatform
+- 📫 How to reach me telegram: SergeyBukarev
